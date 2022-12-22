@@ -1,1 +1,1 @@
-# strategy_pattern
+#  implementing a strategy pattern for a discount system 
